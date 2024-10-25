@@ -6,5 +6,5 @@
 - I’m now looking for global opportunities, hire me for support with Python, Java, code review, refactor, cleanup.
 
 ## Recent Blog Posts
-[How to Write a Good Method in Java](https://medium.com/@leaf-soba/how-to-write-a-good-method-in-java-5dc821d0be28)
-[How ChatGPT Changed My Life: From Personal Growth to Productivity](https://medium.com/@leaf-soba/how-chatgpt-changed-my-life-from-personal-growth-to-productivity-63be5ccd4a80)
+- [How to Write a Good Method in Java](https://medium.com/@leaf-soba/how-to-write-a-good-method-in-java-5dc821d0be28)
+- [How ChatGPT Changed My Life: From Personal Growth to Productivity](https://medium.com/@leaf-soba/how-chatgpt-changed-my-life-from-personal-growth-to-productivity-63be5ccd4a80)
