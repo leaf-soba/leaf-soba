@@ -3,6 +3,7 @@
 <a href="https://stackoverflow.com/users/15513073/leaf-soba"><img src="https://stackoverflow.com/users/flair/15513073.png" width="208" height="58" alt="profile for leaf_soba at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for leaf_soba at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 - Medium: https://medium.com/@leaf-soba
+- linkedin：https://www.linkedin.com/in/ryan-ye-31258a175/
 - I’m now looking for global opportunities, hire me for support with Python, Java, code review, refactor, cleanup.
 
 ## Recent Blog Posts
