@@ -12,3 +12,4 @@
 - [How to Write a Good Method in Java](https://medium.com/@leaf-soba/how-to-write-a-good-method-in-java-5dc821d0be28)
 - [How ChatGPT Changed My Life: From Personal Growth to Productivity](https://medium.com/@leaf-soba/how-chatgpt-changed-my-life-from-personal-growth-to-productivity-63be5ccd4a80)
 - [How to deal with brain method problem](https://medium.com/@leaf-soba/how-to-write-a-good-method-in-java-part-2-449559d16841)
+- [5 Tips for Using ChatGPT Effectively with Examples](https://medium.com/@leaf-soba/5-tips-for-using-chatgpt-effectively-with-examples-f9cc4e133bbf)
